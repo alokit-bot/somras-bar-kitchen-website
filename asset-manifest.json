@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/somras-bar-kitchen-website/static/css/main.1c331748.css",
+    "main.js": "/somras-bar-kitchen-website/static/js/main.7638838f.js",
+    "index.html": "/somras-bar-kitchen-website/index.html",
+    "main.1c331748.css.map": "/somras-bar-kitchen-website/static/css/main.1c331748.css.map",
+    "main.7638838f.js.map": "/somras-bar-kitchen-website/static/js/main.7638838f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c331748.css",
+    "static/js/main.7638838f.js"
+  ]
+}
